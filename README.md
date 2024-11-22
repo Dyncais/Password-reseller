@@ -12,4 +12,4 @@ make
 
 Должна быть папка build. В неё уже необходимо скинуть файл hash.txt (хэши из примера). Собранный проект называется SHA.
 
-![alt text](image.png)
+![alt text](Screenshot/image.png)
